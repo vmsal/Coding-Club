@@ -1,3 +1,3 @@
 # Coding-Club
 
-<a href="http://friendshipchristian.net"</a>
+<a href="http://friendshipchristian.net">Visit FCS</a>
